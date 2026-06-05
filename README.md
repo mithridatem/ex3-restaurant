@@ -1,1 +1,1 @@
-# ex3-retaurant
+# ex3-restaurant
